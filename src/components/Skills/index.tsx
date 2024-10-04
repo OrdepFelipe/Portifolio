@@ -22,7 +22,7 @@ const Skills = () => {
     <Container>
       <section className="section__skills" id="skills">
         <h2>Skills</h2>
-        <p>Skills adquiridas no curso</p>
+        <p>Tecnologias que tive oportunidade de estudar durante o curso</p>
       </section>
       <motion.div className="carousel" whileTap={{ cursor: "grabbing" }}>
         <motion.div
