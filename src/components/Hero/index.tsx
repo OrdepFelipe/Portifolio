@@ -8,9 +8,8 @@ const Hero = () => {
         <S.Sobre>
           <h2>Olá, me chamo Pedro</h2>
           <p>
-            Sou formado em Arquivologia e atualmente estou buscando migrar de
-            área. Atualmente, estou fazendo o curso de formação Full Stack na
-            EBAC.
+            Sou formado em Arquivologia. Atualmente, estou fazendo o curso de
+            formação Full Stack na EBAC.
           </p>
         </S.Sobre>
         <img
