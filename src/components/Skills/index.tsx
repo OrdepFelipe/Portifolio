@@ -1,9 +1,9 @@
 import { Container } from "../../styles";
-import "./styles.css";
-import { Url } from "../../utils/UrlImg";
-
 import { motion } from "framer-motion";
 import { useState, useEffect, useRef } from "react";
+
+import "./styles.css";
+import { Url } from "../../utils/UrlImg";
 
 const Skills = () => {
   const carousel = useRef<HTMLDivElement>(null);
